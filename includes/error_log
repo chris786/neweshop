@@ -1,0 +1,2 @@
+[09-Feb-2016 08:19:04 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/includes/connection.php on line 3
+[09-Feb-2016 08:19:04 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/includes/connection.php on line 3

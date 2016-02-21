@@ -1,0 +1,430 @@
+The reset styles given here are intentionally very generic. There isn't any default color or background set for the body element, for example. I don't particularly recommend that you just use this in its unaltered state in your own projects. It should be tweaked, edited, extended, and otherwise tuned to match your specific reset baseline. Fill in your preferred colors for the page, links, and so on.
+
+In other words, this is a starting point, not a self-contained black box of no-touchiness.
+
+If you want to use my reset styles, then feel free! It's all explicitly in the public domain (I have to formally say that or else people ask me about licensing). You can grab a copy of the file to use and tweak as fits you best. If you're more of the copy-and-paste type, or just want an in-page preview of what you'll be getting, here it is.
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+body {
+	background: white;
+}
+
+.main_wrapper {
+	width: 1000px;
+	height: auto;
+	margin: auto;
+
+}
+
+.header_wrapper {
+	width: 1000px;
+	height: 100px;
+	margin: auto;
+	padding-bottom: 10px;
+	
+}
+
+#logo {
+	float: left;
+	
+}
+
+
+.account_desc{
+	float:right;
+}
+.account_desc li{
+	display:inline;
+	border-left:1px dotted #CCC;
+}
+.account_desc li:first-child{
+	border:none;
+}
+.account_desc li a{
+	font-size:0.823em;
+	color:#9C9C9C;
+	padding:0 10px;
+	font-family: tahoma;
+	text-decoration: none;
+}
+.account_desc li a:hover{
+	color:#E4292F;
+}
+.menubar {
+	width: 1000px;
+	height: 50px;
+	background: gray;
+	color: white;
+	margin: auto;
+	border-radius: 5px;
+}
+
+#menu {
+	padding: 0;
+	margin: 0;
+	line-height: 50px;
+	display: inline;
+
+}
+
+#menu li{
+	
+	list-style: none;
+	display: inline;
+
+}
+
+#menu a {
+	border-right: 1px solid white;
+	margin:0;
+
+	text-decoration: none;
+	color: white;
+	padding: 10px;
+	
+	font-size: 18px;
+	font-family: COMIC SANS MS;
+
+}
+
+#menu a:hover {
+
+	color: orange;
+
+}
+
+#form {
+	float: right;
+	padding-right: 8px;
+	line-height: 50px;
+}
+.search_box {
+	float: right;
+	border: 1px solid white;
+	background: #FFF;
+	border-radius: 0.3em;
+	-webkit-border-radius: 0.3em;
+	-moz-border-radius: 0.3em;
+	-o-border-radius: 0.3em;
+	position: relative;
+	margin-top:8px;
+	margin-right: 15px;
+	width:25%;
+	height: 30px;
+}
+.search_box form input[type="text"] {
+	border: none;
+	outline: none;
+	background: none;
+	font-size:12px;
+	font-family: tahoma;
+	color: #acacac;
+	width:75%;
+	padding:5px;
+}
+.search_box form input[type="submit"] {
+	border: none;
+	cursor: pointer;
+	background: url(../images/search.png) no-repeat 0px 7px;
+	position: absolute;
+	right: 0;
+	width: 20px;
+	height: 25px;
+}
+
+
+.content_wrapper {
+	width: 1000px;
+	margin: auto;
+	background: white;
+}
+
+#content_area {
+	width: 800px;
+	float: right;
+	background: white;
+}
+
+#sidebar {
+	width: 200px;
+	float: left;
+	padding-top: 50px;
+	background: white;
+	color: black;
+}
+
+#sidebar_title {
+	background: gray;
+	color: white;
+	border-radius: 5px;
+	font-size: 16px;
+	font-family: tahoma;
+	padding: 10px;
+
+}
+
+
+
+
+#cats li {
+	list-style: none;
+	margin: 5px;
+
+}
+
+#cats a {
+	color: black;
+	padding: 8px;
+	margin: 5px;
+	text-align: center;
+	font-size: 14px;
+	text-decoration: none;
+	font-family: COMIC SANS MS;
+}
+
+#cats a:hover {
+	color: orange;
+	text-decoration: underline;
+
+}
+
+#products_box {
+    width: 780px;
+    text-align: center;
+    margin-left: 30px;
+    margin-bottom: 10px;
+}
+
+#single_product {
+    float: left;
+    margin-left: 20px;
+    padding: 10px;
+    border:1px solid #CECECE;
+    background-color: white;
+
+}
+
+#single_product img{
+    border: 2px solid white;
+
+}
+
+#shopping_cart {
+    width: 800px;
+    height: 50px;
+    background: white;
+    font-family: tahoma;
+    color: black;
+}
+
+#shop_cart {
+	font-family: tahoma;
+}
+
+#login_form {
+	font-family: tahoma;
+	background: #ecf0f1;
+	padding-top: 20px;
+}
+
+#register_form {
+	font-family: tahoma;
+	background: #ecf0f1;
+	padding-top: 20px;
+}
+
+#single_product button a{
+	font-size:0.9em;
+	display: block;
+	padding:10px 15px;
+	font-family: 'ambleregular';
+	background:#CD1F25;
+	color: #FFF;
+	text-decoration: none;
+	outline: 0;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+}
+#single_product button a:hover{
+	  text-shadow: 0px 0px 1px #000;
+	  background:#292929;
+}
+
+.footer {
+	padding-top: 25px;
+	width: 1000px;
+	height: 100px;
+	background: white;
+	clear: both;
+}
+
+.section {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
+.group:before, .group:after {
+	content: "";
+	display: table;
+}
+.group:after {
+	clear: both;
+}
+.group {
+	zoom: 1;
+}
+.col_1_of_4 {
+	display: block;
+	float: left;
+	margin:0% 0 1% 3.6%;
+}
+.col_1_of_4:first-child {
+	margin-left: 0;
+}/* all browsers except IE6 and lower */
+.span_1_of_4 {
+	width: 20.5%;
+	padding:1.5% 1.5% 0 0;
+	border-left:1px solid #CECECE;
+}
+.span_1_of_4  h4 {
+	color:#4F4F4F;
+	margin-bottom: .5em;
+	font-size: 1.2em;
+	line-height: 1.2;
+	font-family: tahoma;
+	font-weight: normal;
+	margin-top: 0px;
+	letter-spacing: -1px;
+	text-transform: uppercase;
+	border-bottom: 1px solid #CECECE;
+	padding-bottom: 0.5em;
+	padding-left:20px;
+}
+.span_1_of_4 ul{
+	padding-left:20px;
+}
+.span_1_of_4  li a {
+	font-size: 0.8125em;
+	padding: 0.4em 0;
+	color:#2A5C86;
+	font-family: tahoma;
+	text-decoration: none;
+	display: block;
+}
+.span_1_of_4  li span{
+	font-size:1em;
+	font-family: tahoma;
+	text-decoration: none;
+	color:#2A5C86;
+	cursor:pointer;
+	margin:10px 0;
+	display:block;
+}
+.span_1_of_4  li a:hover, .span_1_of_4  li span:hover {
+	color:#DD0F0E;
+}
+/*** Social Icons ***/
+.social-icons {
+	padding-top: 8%;
+}
+.social-icons li {
+	width: 30px;
+	height: 30px;
+	padding: 0px 0 0 5px;
+	margin: 0;
+	display: inline-block;
+	cursor: pointer;
+}
+.copy_right {
+	text-align: center;
+	border-top: 1px solid #EEE;
+	padding: 10px 0;
+	font-family:Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+.copy_right p {
+	font-size:0.823em;
+	color: #747474;
+}
+.copy_right p a {
+	color:#DD0F0E;
+	font-family: 'ambleregular';
+	text-decoration: underline;
+}
+.copy_right p a:hover {
+	color:#222;
+	text-decoration: none;
+}
+/*** move top **/
+#toTop {
+	display: none;
+	text-decoration: none;
+	position: fixed;
+	bottom: 10px;
+	right: 10px;
+	overflow: hidden;
+	width: 48px;
+	height: 48px;
+	border: none;
+	text-indent: 100%;
+	background: url(../images/arrow_up.png) no-repeat right top;
+}
+#toTopHover {
+	width: 48px;
+	height: 48px;
+	display: block;
+	overflow: hidden;
+	float: right;
+	opacity: 0;
+	-moz-opacity: 0;
+	filter: alpha(opacity=0);
+}
+#toTop:active, #toTop:focus {
+	outline: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,85 @@
+[09-Feb-2016 06:24:22 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 06:40:17 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 06:40:17 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 06:41:37 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 06:41:37 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newesho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 06:46:49 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 06:46:49 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 07:04:44 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 07:04:44 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 07:16:52 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 07:16:52 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 07:42:10 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 07:42:11 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'tworntcx_newwsho@localhost' (2) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 07:43:27 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 07:43:27 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 07:45:28 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 6
+[09-Feb-2016 07:45:32 America/New_York] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 6
+[09-Feb-2016 07:46:45 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 07:46:45 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:10:04 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:10:04 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:10:08 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:10:08 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:10:44 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:10:44 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:13:19 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:13:19 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:15:27 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:15:27 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:22:41 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/test.php on line 4
+[09-Feb-2016 08:22:41 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/test.php on line 7
+[09-Feb-2016 08:23:24 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/test.php on line 4
+[09-Feb-2016 08:23:24 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/test.php on line 7
+[09-Feb-2016 08:23:56 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/test.php on line 4
+[09-Feb-2016 08:23:56 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/test.php on line 7
+[09-Feb-2016 08:31:20 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:31:20 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:31:32 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:31:32 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:35:26 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:35:26 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:36:24 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:36:24 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:37:17 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:37:17 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:37:22 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:37:22 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:37:59 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:37:59 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:47:40 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:47:40 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:47:41 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 08:47:41 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 09:09:16 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/test.php on line 4
+[09-Feb-2016 09:09:16 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/test.php on line 7
+[09-Feb-2016 09:10:59 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 09:10:59 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 09:11:37 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/test.php on line 4
+[09-Feb-2016 09:11:37 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/test.php on line 7
+[09-Feb-2016 09:12:21 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 09:12:21 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 09:13:25 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 09:13:25 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 09:14:00 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 09:14:00 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 09:14:01 America/New_York] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/test.php on line 7
+[09-Feb-2016 09:14:23 America/New_York] PHP Notice:  Undefined variable: FJ in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 09:14:23 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'tworntcx_newwsho'@'localhost' (using password: YES) in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 3
+[09-Feb-2016 09:31:43 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 118
+[09-Feb-2016 09:31:43 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 132
+[09-Feb-2016 09:31:43 America/New_York] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 69
+[09-Feb-2016 09:31:43 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 89
+[09-Feb-2016 09:31:43 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tworntcx/public_html/neweshop.website/functions/functions.php on line 149
+[09-Feb-2016 11:55:46 America/New_York] PHP Notice:  Undefined index: qty in /home/tworntcx/public_html/neweshop.website/cart.php on line 209
+[09-Feb-2016 11:56:09 America/New_York] PHP Notice:  Undefined index: qty in /home/tworntcx/public_html/neweshop.website/cart.php on line 210
+[09-Feb-2016 11:56:28 America/New_York] PHP Notice:  Undefined index: qty in /home/tworntcx/public_html/neweshop.website/cart.php on line 209
+[09-Feb-2016 11:57:56 America/New_York] PHP Notice:  Undefined index: qty in /home/tworntcx/public_html/neweshop.website/cart.php on line 209
+[09-Feb-2016 11:58:10 America/New_York] PHP Notice:  Undefined index: qty in /home/tworntcx/public_html/neweshop.website/cart.php on line 209
+[09-Feb-2016 11:58:29 America/New_York] PHP Notice:  Undefined index: qty in /home/tworntcx/public_html/neweshop.website/cart.php on line 209
+[09-Feb-2016 11:58:42 America/New_York] PHP Notice:  Undefined index: qty in /home/tworntcx/public_html/neweshop.website/cart.php on line 209
+[09-Feb-2016 11:58:56 America/New_York] PHP Notice:  Undefined index: qty in /home/tworntcx/public_html/neweshop.website/cart.php on line 209
+[09-Feb-2016 12:20:41 America/New_York] PHP Notice:  Undefined index: qty in /home/tworntcx/public_html/neweshop.website/cart.php on line 209
+[09-Feb-2016 12:33:06 America/New_York] PHP Notice:  Undefined index: qty in /home/tworntcx/public_html/neweshop.website/cart.php on line 209
+[21-Feb-2016 07:30:21 America/New_York] PHP Notice:  Undefined index: qty in /home/tworntcx/public_html/neweshop.website/cart.php on line 209
+[21-Feb-2016 07:30:27 America/New_York] PHP Notice:  Undefined index: qty in /home/tworntcx/public_html/neweshop.website/cart.php on line 209
